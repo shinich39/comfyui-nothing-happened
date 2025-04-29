@@ -1,0 +1,25 @@
+{
+  "name": "comfyui-nothing-happened",
+  "version": "1.0.0",
+  "description": "Save image and keep metadata.",
+  "type": "module",
+  "scripts": {
+    "pub": "node scripts/pub.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shinich39/comfyui-nothing-happened.git"
+  },
+  "keywords": [
+    "comfyui"
+  ],
+  "author": "shinich39 <shinich39@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shinich39/comfyui-nothing-happened/issues"
+  },
+  "homepage": "https://github.com/shinich39/comfyui-nothing-happened#readme",
+  "dependencies": {
+    "dotenv": "^16.5.0"
+  }
+}
